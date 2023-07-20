@@ -1,0 +1,15 @@
+E:\Project\LeetCode\PrintTable\PrintTable\bin\Debug\net6.0\PrintTable.exe
+E:\Project\LeetCode\PrintTable\PrintTable\bin\Debug\net6.0\PrintTable.deps.json
+E:\Project\LeetCode\PrintTable\PrintTable\bin\Debug\net6.0\PrintTable.runtimeconfig.json
+E:\Project\LeetCode\PrintTable\PrintTable\bin\Debug\net6.0\PrintTable.dll
+E:\Project\LeetCode\PrintTable\PrintTable\bin\Debug\net6.0\PrintTable.pdb
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.csproj.AssemblyReference.cache
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.AssemblyInfoInputs.cache
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.AssemblyInfo.cs
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.csproj.CoreCompileInputs.cache
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.dll
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\refint\PrintTable.dll
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.pdb
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\PrintTable.genruntimeconfig.cache
+E:\Project\LeetCode\PrintTable\PrintTable\obj\Debug\net6.0\ref\PrintTable.dll
